@@ -1,0 +1,90 @@
+@import 'https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i';
+
+body{
+  background: url('http://wallpapercave.com/wp/k21tAfG.jpg');
+  font-family: 'Playfair Display', serif;
+}
+
+.container{
+  text-align: center;
+  padding-top: 5em;
+}
+
+img{
+  width: 30%;
+}
+
+h1{
+  color: #ffe81f;
+  font-size: 3em;
+  margin: 1em 0;
+}
+
+p{
+  color: #ffe81f;
+  font-size: 1.3em;
+}
+a{
+  color: #ffe81f;
+  font-size: 1.3em;
+  cursor: pointer;
+}
+
+a:hover{
+  color: #ffe81f;
+}
+
+a:active{
+  color: #ffe81f;
+}
+
+a:focus{
+  color: #ffe81f;
+}
+.btn{
+  margin-top: 1em;
+  background-color: #000;
+  border: 2px solid #ffe81f;
+  color: #ffe81f;
+  font-weight: bold;
+  padding: 10px 40px;
+  border-radius: 0;
+}
+
+.btn-default:hover{
+  background-color: #ffe81f;
+  color: #000;
+  border-color: #ffe81f;
+}
+
+.btn-default:focus{
+  background-color: #ffe81f;
+  color: #000;
+  border-color: #ffe81f;
+}
+
+.btn-default:active{
+  background-color: #ffe81f;
+  color: #000;
+  border-color: #ffe81f;
+}
+.quote-box{
+  margin-top: 4em;
+  border: 2px dashed #ffe81f;
+ padding-bottom: 2em;
+}
+
+.quote{
+  margin: 2em auto;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+
+.author{
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+
+.quote-box img{
+  width: 10%;
+}
